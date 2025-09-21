@@ -1,0 +1,5 @@
+{
+  "name": "Legal Doc Demystifier",
+  "description": "An AI-powered tool to simplify and explain complex legal documents. Paste your legal text to get a clear summary, definitions of key terms, and an analysis of potential risks.",
+  "requestFramePermissions": []
+}
